@@ -7,7 +7,7 @@ end
 first_number
 
 sum = first_number + second_number 
-differnce = first_number - second_number 
+ = first_number - second_number 
 
 
 
