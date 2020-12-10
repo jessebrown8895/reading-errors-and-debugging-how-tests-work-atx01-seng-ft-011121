@@ -1,8 +1,9 @@
 first_number = 10 
 
-def first_number(num2)
-  first_number + num2
+def first_number
+  num2 = 5 
+  puts first_number + num2 
 end
 
-puts first_number(5)
+first_number
 
